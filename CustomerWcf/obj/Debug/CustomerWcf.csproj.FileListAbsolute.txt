@@ -1,0 +1,11 @@
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\obj\Debug\CustomerWcf.csproj.AssemblyReference.cache
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\obj\Debug\CustomerWcf.csproj.CoreCompileInputs.cache
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\bin\CustomerWcf.dll.config
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\bin\CustomerWcf.dll
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\bin\CustomerWcf.pdb
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\obj\Debug\CustomerWcf.dll
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\obj\Debug\CustomerWcf.pdb
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\bin\WebHttpBehaviorExtensions.dll
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\obj\Debug\CustomerWcf.csproj.CopyComplete
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\bin\Newtonsoft.Json.dll
+C:\Users\mikaeel.khalid\source\repos\CustomerWcf\CustomerWcf\bin\Newtonsoft.Json.xml
